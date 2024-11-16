@@ -1,6 +1,4 @@
-# Proyecto Ontimize Web y Ontimize Boot
-
-***NODUS SCIENTIA***
+# NODUS SCIENTIA
 
 # Índice
 
